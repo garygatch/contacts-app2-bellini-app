@@ -1,0 +1,43 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "zNvpzhI7kYRzdkD54CES2",
+        "name": "aa"
+      },
+      {
+        "id": "3qS_-qGXoQreyH5cNs4y6",
+        "name": "bb"
+      }
+    ],
+    "pages": [],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  },
+  "localStylesheets": [
+    {
+      "path": "theme.css"
+    }
+  ],
+  "name": "contacts-app2",
+  "type": "app"
+}
